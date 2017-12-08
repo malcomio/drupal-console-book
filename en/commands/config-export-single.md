@@ -12,7 +12,7 @@ Option | Details
 -------|-------------
 --name | commands.config.export.single.options.name
 --directory | commands.config.export.arguments.directory
---module | The Module name.
+--module | The Module name. This needs to be a module that already exists.
 --include-dependencies | Export dependencies of the configuration as well.
 --optional | Export config as an optional YAML configuration in your module
 --remove-uuid | If set, the configuration will be exported without uuid key.

@@ -10,7 +10,7 @@ cect
 ## Available options
 Option | Details
 -------|-------------
---module | The Module name.
+--module | The Module name. This needs to be a module that already exists.
 --optional-config | Export content type as an optional YAML configuration in your module
 
 ## Available arguments
